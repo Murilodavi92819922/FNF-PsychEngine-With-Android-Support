@@ -1,0 +1,4 @@
+The Kill HP will decrease the HP you
+want to drop
+
+Value 1: The % of the HP you want to drop
