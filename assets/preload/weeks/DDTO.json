@@ -1,0 +1,50 @@
+{
+	"storyName": "DDTO Cover",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"wistfulness",
+			"natsuki",
+			[
+				255,
+				73,
+				215
+			]
+		],
+		[
+			"Dejection",
+			"yuri",
+			[
+				186,
+				33,
+				255
+			]
+		],
+		[
+			"Unknown Suffering",
+			"sayori",
+			[
+				100,
+				193,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}
